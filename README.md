@@ -1,4 +1,4 @@
-# Car menu example (PowerShell)
+# Car menu example
 
 A minimal **arrow-key navigation menu** for Windows PowerShell. Pick a favourite car, then a colour, and the script prints your choices.
 
